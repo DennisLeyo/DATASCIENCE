@@ -28,7 +28,7 @@
     
     
    } catch (Exception ex)  {
-       ex.printStackTrace();
+      out.println(ex.printStackTrace());
    } 
    
     
